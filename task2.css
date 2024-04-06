@@ -1,0 +1,17 @@
+{
+    padding: 0;
+    margin: 0;
+
+}
+
+h1 {
+    text-align: center;
+}
+img {
+    border: 20px;
+    color: solid black
+}
+.items {
+    color: green;
+    font-size: 18px;
+}
